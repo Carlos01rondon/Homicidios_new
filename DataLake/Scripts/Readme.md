@@ -1,4 +1,4 @@
-#Scripts
+# Scripts
 
 Realizar la creación de tablas de la base de datos de homicidios para su posterior análisis.
 
